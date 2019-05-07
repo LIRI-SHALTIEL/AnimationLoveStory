@@ -6,16 +6,16 @@ lib.ssMetadata = [
 		{name:"SHIR_OR_LOVE_STORY_atlas_", frames: [[0,0,1519,1423]]},
 		{name:"SHIR_OR_LOVE_STORY_atlas_2", frames: [[0,0,959,1600]]},
 		{name:"SHIR_OR_LOVE_STORY_atlas_3", frames: [[0,0,1375,770],[0,772,1366,768]]},
-		{name:"SHIR_OR_LOVE_STORY_atlas_4", frames: [[0,0,1366,768],[0,770,1366,768]]},
-		{name:"SHIR_OR_LOVE_STORY_atlas_5", frames: [[0,770,1366,768],[0,0,1366,768]]},
+		{name:"SHIR_OR_LOVE_STORY_atlas_4", frames: [[0,770,1366,768],[0,0,1366,768]]},
+		{name:"SHIR_OR_LOVE_STORY_atlas_5", frames: [[0,0,1366,768],[0,770,1366,768]]},
 		{name:"SHIR_OR_LOVE_STORY_atlas_6", frames: [[0,770,1366,768],[0,0,1366,768]]},
 		{name:"SHIR_OR_LOVE_STORY_atlas_7", frames: [[0,0,1366,768],[0,770,1366,768]]},
 		{name:"SHIR_OR_LOVE_STORY_atlas_8", frames: [[1276,604,639,695],[1026,0,960,602],[1276,1301,639,695],[0,770,1274,602],[0,1374,1254,602],[0,0,1024,768]]},
-		{name:"SHIR_OR_LOVE_STORY_atlas_9", frames: [[812,0,312,453],[1619,455,312,453],[1434,1546,312,453],[1619,0,312,453],[498,455,312,453],[498,0,312,453],[1126,0,312,453],[812,455,312,453],[1126,455,312,453],[0,1370,1617,174],[0,1546,499,457],[0,685,496,683],[0,0,496,683],[501,1546,931,230],[501,1778,931,230],[1126,910,312,453],[1440,910,312,453],[812,910,312,453],[498,910,312,453]]},
-		{name:"SHIR_OR_LOVE_STORY_atlas_10", frames: [[628,455,312,453],[314,455,312,453],[942,910,312,453],[314,910,312,453],[314,1365,312,453],[628,1365,312,453],[1570,910,312,453],[1256,910,312,453],[0,1365,312,453],[628,910,312,453],[942,455,312,453],[1570,455,312,453],[1256,455,312,453],[0,910,312,453],[1256,0,312,453],[314,0,312,453],[628,0,312,453],[0,455,312,453],[942,0,312,453],[1570,0,312,453],[1501,1365,341,374],[942,1365,557,230],[942,1597,496,230],[1440,1741,483,230],[0,0,312,453]]},
-		{name:"SHIR_OR_LOVE_STORY_atlas_11", frames: [[1736,1158,246,384],[248,369,246,384],[496,369,246,384],[992,386,246,384],[1731,1544,233,385],[1740,0,246,384],[248,755,246,384],[992,772,246,384],[744,1158,246,384],[744,1544,246,384],[744,772,246,384],[1736,386,246,384],[1244,0,246,384],[1492,0,246,384],[996,0,246,384],[1488,1158,246,384],[1240,1544,246,384],[1488,1544,241,386],[1736,772,246,384],[1240,772,246,384],[1240,1158,246,384],[1488,772,246,384],[992,1158,246,384],[992,1544,246,384],[483,0,263,367],[1240,386,246,384],[1488,386,246,384],[248,1527,246,384],[496,755,246,384],[248,1141,246,384],[496,1527,246,384],[496,1141,246,384],[744,386,246,384],[0,0,481,230],[0,1390,246,384],[0,232,246,384],[0,1004,246,384],[0,618,246,384],[748,0,246,384]]},
-		{name:"SHIR_OR_LOVE_STORY_atlas_12", frames: [[1247,0,257,333],[1833,1381,204,368],[220,1684,217,344],[690,1048,240,328],[1669,1054,241,325],[1180,928,243,326],[440,1330,218,351],[877,1556,218,346],[935,893,243,326],[1432,568,219,366],[0,750,208,377],[1097,1609,229,327],[463,397,238,343],[0,0,234,380],[1392,1381,218,349],[715,346,237,353],[954,567,250,324],[932,1221,234,333],[220,1330,218,352],[489,0,224,395],[1506,0,256,334],[464,742,224,354],[236,0,251,353],[1206,568,224,358],[1653,692,222,360],[974,0,271,325],[236,355,225,367],[703,701,230,345],[1168,1256,222,351],[660,1378,215,355],[0,1330,218,353],[0,1685,217,344],[1764,0,231,365],[440,1683,217,344],[0,382,221,366],[223,742,239,332],[715,0,257,344],[1612,1381,219,345],[1710,367,260,323],[1425,1054,242,325],[210,1098,340,230],[1342,336,366,230],[974,335,366,230]]},
-		{name:"SHIR_OR_LOVE_STORY_atlas_13", frames: [[209,343,204,335],[1180,1356,167,343],[1506,0,204,346],[594,1015,180,351],[0,1011,188,337],[1496,348,191,355],[1712,344,218,313],[190,1021,184,343],[1239,1000,179,354],[853,674,204,324],[1689,659,189,355],[188,1366,159,349],[0,671,196,338],[1806,1368,173,319],[393,691,200,321],[1059,674,178,369],[862,0,212,340],[820,1000,172,373],[1288,0,216,327],[226,0,214,341],[0,333,207,336],[198,680,193,339],[0,1350,186,324],[0,0,224,331],[376,1334,190,322],[1076,340,209,332],[1420,1054,192,322],[1712,0,206,342],[393,1014,199,318],[1880,659,165,372],[1287,670,204,328],[853,342,208,330],[1680,1016,189,334],[1288,329,206,339],[647,342,204,337],[621,681,197,332],[1871,1033,174,333],[1493,705,185,347],[647,0,213,340],[415,359,204,330],[1076,0,210,338],[1614,1352,190,315],[442,0,203,357],[994,1045,184,341],[1990,66,20,64],[1961,0,36,64],[1955,66,33,64],[1999,0,35,64],[1920,0,39,64],[1920,66,33,64],[1349,1378,203,203],[568,1375,334,177],[904,1388,201,201]]}
+		{name:"SHIR_OR_LOVE_STORY_atlas_9", frames: [[812,0,312,453],[1440,910,312,453],[1126,910,312,453],[1126,0,312,453],[812,455,312,453],[1126,455,312,453],[498,455,312,453],[498,0,312,453],[0,1370,1617,174],[0,1546,499,457],[0,0,496,683],[0,685,496,683],[501,1778,931,230],[501,1546,931,230],[812,910,312,453],[1619,0,312,453],[498,910,312,453],[1619,455,312,453],[1434,1546,312,453]]},
+		{name:"SHIR_OR_LOVE_STORY_atlas_10", frames: [[0,455,312,453],[1570,0,312,453],[628,1365,312,453],[1570,910,312,453],[1256,910,312,453],[0,1365,312,453],[314,1365,312,453],[1256,0,312,453],[628,0,312,453],[942,0,312,453],[0,0,312,453],[314,0,312,453],[628,910,312,453],[1570,455,312,453],[942,455,312,453],[314,910,312,453],[942,910,312,453],[0,910,312,453],[314,455,312,453],[1256,455,312,453],[628,455,312,453],[1501,1365,341,374],[942,1365,557,230],[942,1597,496,230],[1440,1741,483,230]]},
+		{name:"SHIR_OR_LOVE_STORY_atlas_11", frames: [[992,386,246,384],[496,1527,246,384],[744,386,246,384],[248,369,246,384],[1731,1544,233,385],[1736,1158,246,384],[1740,0,246,384],[1240,1158,246,384],[996,0,246,384],[496,369,246,384],[1240,1544,246,384],[1488,1158,246,384],[496,1141,246,384],[496,755,246,384],[248,1527,246,384],[248,1141,246,384],[248,755,246,384],[1488,1544,241,386],[1736,772,246,384],[992,1544,246,384],[1240,772,246,384],[992,1158,246,384],[1488,772,246,384],[1492,0,246,384],[483,0,263,367],[1244,0,246,384],[744,1158,246,384],[744,1544,246,384],[1488,386,246,384],[1240,386,246,384],[1736,386,246,384],[744,772,246,384],[992,772,246,384],[0,0,481,230],[748,0,246,384],[0,618,246,384],[0,232,246,384],[0,1390,246,384],[0,1004,246,384]]},
+		{name:"SHIR_OR_LOVE_STORY_atlas_12", frames: [[1247,0,257,333],[1833,1381,204,368],[440,1683,217,344],[690,1048,240,328],[1669,1054,241,325],[1180,928,243,326],[440,1330,218,351],[877,1574,218,346],[935,893,243,326],[1432,568,219,366],[0,750,208,377],[1097,1591,229,327],[463,397,238,343],[0,0,234,380],[1392,1381,218,349],[715,346,237,353],[954,567,250,324],[1156,1256,234,333],[220,1330,218,352],[489,0,224,395],[1506,0,256,334],[464,742,224,354],[236,0,251,353],[1206,568,224,358],[1653,692,222,360],[974,0,271,325],[236,355,225,367],[703,701,230,345],[932,1221,222,351],[660,1378,215,355],[0,1330,218,353],[0,1685,217,344],[1764,0,231,365],[220,1684,217,344],[0,382,221,366],[223,742,239,332],[715,0,257,344],[1612,1381,219,345],[1710,367,260,323],[1425,1054,242,325],[210,1098,340,230],[974,335,366,230],[1342,336,366,230]]},
+		{name:"SHIR_OR_LOVE_STORY_atlas_13", frames: [[209,343,204,335],[1180,1356,167,343],[1506,0,204,346],[594,1015,180,351],[0,1011,188,337],[1496,348,191,355],[1712,344,218,313],[190,1021,184,343],[1239,1000,179,354],[853,674,204,324],[1689,659,189,355],[188,1366,159,349],[0,671,196,338],[1806,1368,173,319],[393,691,200,321],[1059,674,178,369],[862,0,212,340],[820,1000,172,373],[1288,0,216,327],[226,0,214,341],[0,333,207,336],[198,680,193,339],[0,1350,186,324],[0,0,224,331],[376,1334,190,322],[1076,340,209,332],[1420,1054,192,322],[1712,0,206,342],[393,1014,199,318],[1880,659,165,372],[1287,670,204,328],[853,342,208,330],[1680,1016,189,334],[1288,329,206,339],[647,342,204,337],[621,681,197,332],[1871,1033,174,333],[1493,705,185,347],[647,0,213,340],[415,359,204,330],[1076,0,210,338],[1614,1352,190,315],[442,0,203,357],[994,1045,184,341],[1990,66,20,64],[1961,0,36,64],[1920,66,33,64],[1999,0,35,64],[1920,0,39,64],[1955,66,33,64],[1349,1378,203,203],[568,1375,334,177],[904,1388,201,201]]}
 ];
 
 
@@ -87,8 +87,8 @@ lib.ssMetadata = [
 
 
 (lib.BMP_1129d80d_1245_4bea_999a_3e994bd8a7ee = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -158,7 +158,7 @@ lib.ssMetadata = [
 
 (lib.BMP_2a8b5361_013b_4828_96fe_f0a6133f0aa0 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -214,7 +214,7 @@ lib.ssMetadata = [
 
 (lib.BMP_34eb5e8b_41b3_4638_b145_b024d63fa24e = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -276,8 +276,8 @@ lib.ssMetadata = [
 
 
 (lib.BMP_4b233e36_118b_40e8_992e_dc41f9502508 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(2);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -297,8 +297,8 @@ lib.ssMetadata = [
 
 
 (lib.BMP_4e7f16e3_8e09_47c2_93f1_b2c829f4346c = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(3);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -333,7 +333,7 @@ lib.ssMetadata = [
 
 (lib.BMP_57e051fa_17c4_4321_9b91_8a1d8610bff8 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(2);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -361,7 +361,7 @@ lib.ssMetadata = [
 
 (lib.BMP_5a2c184f_52e1_4260_a25f_53878ec136a9 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(4);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -375,7 +375,7 @@ lib.ssMetadata = [
 
 (lib.BMP_5c095e4a_2f13_4e00_8504_7607df0b321c = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(5);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -424,7 +424,7 @@ lib.ssMetadata = [
 
 (lib.BMP_687ce94a_1a8e_44d7_bd43_dc81c93c2783 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(3);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -472,8 +472,8 @@ lib.ssMetadata = [
 
 
 (lib.BMP_71d5398b_ad7f_49e0_bf4a_d37868368693 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(6);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -486,8 +486,8 @@ lib.ssMetadata = [
 
 
 (lib.BMP_753854e2_ba79_4187_92a7_9e4496f42649 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(7);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -507,8 +507,8 @@ lib.ssMetadata = [
 
 
 (lib.BMP_7c3c4df2_81ed_4535_9e5e_6268364fc2cc = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(8);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
+	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -535,8 +535,8 @@ lib.ssMetadata = [
 
 
 (lib.BMP_8177c498_129c_4d88_ba6d_90d5137a9354 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(4);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -549,8 +549,8 @@ lib.ssMetadata = [
 
 
 (lib.BMP_87962cca_0e20_4346_9ea5_ae4bca4da6f9 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(5);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -564,7 +564,7 @@ lib.ssMetadata = [
 
 (lib.BMP_89afd3a0_3916_4281_871d_9a04bae53ae8 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(6);
+	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -577,15 +577,15 @@ lib.ssMetadata = [
 
 
 (lib.BMP_8fe8469f_b0cc_41cb_a8ad_ca3594251427 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(7);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.BMP_90a46437_9a58_477f_8f97_7944e0aae34e = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(8);
+	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -752,8 +752,8 @@ lib.ssMetadata = [
 
 
 (lib.BMP_b9835ede_6431_4bee_b915_8680b600f887 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(9);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -801,8 +801,8 @@ lib.ssMetadata = [
 
 
 (lib.BMP_c2dee398_be30_4aa4_917c_7825d04947a3 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(10);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -816,7 +816,7 @@ lib.ssMetadata = [
 
 (lib.BMP_c57dad94_805e_4c44_bdff_56eb8ed142d2 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(11);
+	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -830,7 +830,7 @@ lib.ssMetadata = [
 
 (lib.BMP_c8e71099_570b_44af_a525_7390acec2214 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(12);
+	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -865,7 +865,7 @@ lib.ssMetadata = [
 
 (lib.BMP_ceecc5de_985c_40f7_bea0_98284ec074aa = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(13);
+	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -886,14 +886,14 @@ lib.ssMetadata = [
 
 (lib.BMP_d63e9d6e_87c5_4d3c_a488_233fdf7109fc = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(14);
+	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.BMP_d9d1c699_ffa6_4591_bc5c_102f2929736d = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(15);
+	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -928,7 +928,7 @@ lib.ssMetadata = [
 
 (lib.BMP_e451e623_fa58_4c2f_8a28_266d2de31827 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(16);
+	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -956,7 +956,7 @@ lib.ssMetadata = [
 
 (lib.BMP_eb67b7c1_f53f_43b7_aca9_de37cd1522f1 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(17);
+	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -998,14 +998,14 @@ lib.ssMetadata = [
 
 (lib.BMP_f1e4ae91_377a_4174_a58b_27f6731bef7c = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(18);
+	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.BMP_f236b868_f527_4488_9bea_9a7da635e844 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(19);
+	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1052,208 +1052,208 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedTexturedBitmap_67 = function() {
+(lib.CachedTexturedBitmap_232 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_13"]);
 	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_68 = function() {
+(lib.CachedTexturedBitmap_233 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_13"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_69 = function() {
+(lib.CachedTexturedBitmap_234 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_13"]);
 	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_70 = function() {
+(lib.CachedTexturedBitmap_235 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_13"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_71 = function() {
+(lib.CachedTexturedBitmap_236 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_13"]);
 	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_72 = function() {
+(lib.CachedTexturedBitmap_237 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_13"]);
 	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_73 = function() {
+(lib.CachedTexturedBitmap_238 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_13"]);
 	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_74 = function() {
+(lib.CachedTexturedBitmap_239 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(9);
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_76 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(20);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_77 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(10);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_78 = function() {
-	this.initialize(img.CachedTexturedBitmap_78);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2732,1536);
-
-
-(lib.CachedTexturedBitmap_79 = function() {
-	this.initialize(img.CachedTexturedBitmap_79);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2732,1536);
-
-
-(lib.CachedTexturedBitmap_80 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(11);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_81 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_8"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_82 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_8"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_83 = function() {
+(lib.CachedTexturedBitmap_241 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_84 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_8"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_85 = function() {
+(lib.CachedTexturedBitmap_242 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(12);
+	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_86 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_8"]);
-	this.gotoAndStop(3);
-}).prototype = p = new cjs.Sprite();
+(lib.CachedTexturedBitmap_243 = function() {
+	this.initialize(img.CachedTexturedBitmap_243);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2732,1536);
 
 
-
-(lib.CachedTexturedBitmap_87 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_8"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
+(lib.CachedTexturedBitmap_244 = function() {
+	this.initialize(img.CachedTexturedBitmap_244);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2732,1536);
 
 
-(lib.CachedTexturedBitmap_89 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_12"]);
-	this.gotoAndStop(40);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_91 = function() {
+(lib.CachedTexturedBitmap_245 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(13);
+	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_92 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_13"]);
-	this.gotoAndStop(51);
+(lib.CachedTexturedBitmap_246 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_8"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_93 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
-	this.gotoAndStop(14);
+(lib.CachedTexturedBitmap_247 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_8"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_94 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_12"]);
-	this.gotoAndStop(41);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_95 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_12"]);
-	this.gotoAndStop(42);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_96 = function() {
+(lib.CachedTexturedBitmap_248 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_97 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_11"]);
-	this.gotoAndStop(33);
+(lib.CachedTexturedBitmap_249 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_8"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_98 = function() {
+(lib.CachedTexturedBitmap_250 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
+	this.gotoAndStop(11);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_251 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_8"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_252 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_8"]);
+	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_254 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_12"]);
+	this.gotoAndStop(40);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_256 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
+	this.gotoAndStop(12);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_257 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_13"]);
+	this.gotoAndStop(51);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_258 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
+	this.gotoAndStop(13);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_259 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_12"]);
+	this.gotoAndStop(41);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_260 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_12"]);
+	this.gotoAndStop(42);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_261 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_99 = function() {
+(lib.CachedTexturedBitmap_262 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_11"]);
+	this.gotoAndStop(33);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_263 = function() {
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
+	this.gotoAndStop(24);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_264 = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_13"]);
 	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
@@ -1275,8 +1275,8 @@ p.nominalBounds = new cjs.Rectangle(0,0,2732,1536);
 
 
 (lib.OR111 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_10"]);
-	this.gotoAndStop(24);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_9"]);
+	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1365,28 +1365,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,2516,3132);
 
 
 (lib.דירותחחיפוש = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_7"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_6"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.פתיחpngcopy2 = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_4"]);
-	this.gotoAndStop(1);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_5"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.רקעטיול = function() {
 	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_5"]);
-	this.gotoAndStop(0);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.רקעשעון = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_5"]);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_3"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -1399,14 +1399,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,2390,2560);
 
 
 (lib.שעון_חדש = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_6"]);
-	this.gotoAndStop(1);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_7"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.שקופיתסוף = function() {
-	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_3"]);
+	this.initialize(ss["SHIR_OR_LOVE_STORY_atlas_4"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -1446,7 +1446,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.instance = new lib.CachedTexturedBitmap_99();
+	this.instance = new lib.CachedTexturedBitmap_264();
 	this.instance.parent = this;
 	this.instance.setTransform(0,0,0.5,0.5);
 
@@ -2319,31 +2319,31 @@ p.nominalBounds = new cjs.Rectangle(0,0,217,344);
 	this.initialize(mode,startPosition,loop,{});
 
 	// כיתוב_כפתור
-	this.instance = new lib.CachedTexturedBitmap_72();
+	this.instance = new lib.CachedTexturedBitmap_237();
 	this.instance.parent = this;
 	this.instance.setTransform(137.25,665.9,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_71();
+	this.instance_1 = new lib.CachedTexturedBitmap_236();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(121.9,665.9,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_70();
+	this.instance_2 = new lib.CachedTexturedBitmap_235();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(108.65,665.9,0.5,0.5);
 
-	this.instance_3 = new lib.CachedTexturedBitmap_69();
+	this.instance_3 = new lib.CachedTexturedBitmap_234();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(87.8,665.9,0.5,0.5);
 
-	this.instance_4 = new lib.CachedTexturedBitmap_68();
+	this.instance_4 = new lib.CachedTexturedBitmap_233();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(73.95,665.9,0.5,0.5);
 
-	this.instance_5 = new lib.CachedTexturedBitmap_67();
+	this.instance_5 = new lib.CachedTexturedBitmap_232();
 	this.instance_5.parent = this;
 	this.instance_5.setTransform(69.35,665.9,0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).to({state:[]},1).wait(338));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).to({state:[]},2).wait(338));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -2374,7 +2374,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,217,344);
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-152,2);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_74();
+	this.instance_2 = new lib.CachedTexturedBitmap_239();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(309,676.55,0.5,0.5);
 
@@ -2403,15 +2403,15 @@ p.nominalBounds = new cjs.Rectangle(0,0,217,344);
 	this.initialize(mode,startPosition,loop,{});
 
 	// רקע_סיום_לימודים
-	this.instance = new lib.CachedTexturedBitmap_82();
+	this.instance = new lib.CachedTexturedBitmap_247();
 	this.instance.parent = this;
 	this.instance.setTransform(1283.25,143.1,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_81();
+	this.instance_1 = new lib.CachedTexturedBitmap_246();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(148.95,-98.45,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_80();
+	this.instance_2 = new lib.CachedTexturedBitmap_245();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(611.4,41.55,0.5,0.5);
 
@@ -2419,23 +2419,23 @@ p.nominalBounds = new cjs.Rectangle(0,0,217,344);
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(-218,0);
 
-	this.instance_4 = new lib.CachedTexturedBitmap_85();
+	this.instance_4 = new lib.CachedTexturedBitmap_250();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(602.25,35.9,0.5,0.5);
 
-	this.instance_5 = new lib.CachedTexturedBitmap_84();
+	this.instance_5 = new lib.CachedTexturedBitmap_249();
 	this.instance_5.parent = this;
 	this.instance_5.setTransform(151.8,-102.85,0.5,0.5);
 
-	this.instance_6 = new lib.CachedTexturedBitmap_83();
+	this.instance_6 = new lib.CachedTexturedBitmap_248();
 	this.instance_6.parent = this;
 	this.instance_6.setTransform(571.65,145.25,0.5,0.5);
 
-	this.instance_7 = new lib.CachedTexturedBitmap_86();
+	this.instance_7 = new lib.CachedTexturedBitmap_251();
 	this.instance_7.parent = this;
 	this.instance_7.setTransform(120.05,205.35,0.5,0.5);
 
-	this.instance_8 = new lib.CachedTexturedBitmap_87();
+	this.instance_8 = new lib.CachedTexturedBitmap_252();
 	this.instance_8.parent = this;
 	this.instance_8.setTransform(130.15,205.35,0.5,0.5);
 
@@ -2448,7 +2448,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,217,344);
 	this.initialize(mode,startPosition,loop,{});
 
 	// רקע_דירה_חדשה_
-	this.instance = new lib.CachedTexturedBitmap_77();
+	this.instance = new lib.CachedTexturedBitmap_242();
 	this.instance.parent = this;
 	this.instance.setTransform(713.4,83.7,0.5,0.5);
 
@@ -2456,11 +2456,11 @@ p.nominalBounds = new cjs.Rectangle(0,0,217,344);
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-255,0);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_78();
+	this.instance_2 = new lib.CachedTexturedBitmap_243();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-255,0,0.5,0.5);
 
-	this.instance_3 = new lib.CachedTexturedBitmap_79();
+	this.instance_3 = new lib.CachedTexturedBitmap_244();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(-255,0,0.5,0.5);
 
@@ -2490,7 +2490,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,217,344);
 	this.instance.parent = this;
 	this.instance.setTransform(44.05,249.35,0.6129,0.6129,-12.4442);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_76();
+	this.instance_1 = new lib.CachedTexturedBitmap_241();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(822.25,568.5,0.5,0.5);
 
@@ -2571,11 +2571,11 @@ p.nominalBounds = new cjs.Rectangle(-49,0,424.7,321);
 	this.playbtn.setTransform(111.3,681.8,1,1,0,0,0,50.2,50.2);
 	new cjs.ButtonHelper(this.playbtn, 0, 1, 1);
 
-	this.instance = new lib.CachedTexturedBitmap_73();
+	this.instance = new lib.CachedTexturedBitmap_238();
 	this.instance.parent = this;
 	this.instance.setTransform(60.6,631.1,0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.playbtn}]}).to({state:[]},1).wait(337));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.playbtn}]}).to({state:[]},2).wait(337));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -4613,7 +4613,7 @@ p.nominalBounds = new cjs.Rectangle(49,22.8,495.79999999999995,318.2);
 	this.instance.parent = this;
 	this.instance.setTransform(95.05,586.2,1,1,0,0,0,144,173.3);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_89();
+	this.instance_1 = new lib.CachedTexturedBitmap_254();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(99.25,60.9,0.5,0.5);
 
@@ -4621,19 +4621,19 @@ p.nominalBounds = new cjs.Rectangle(49,22.8,495.79999999999995,318.2);
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(-764,-959);
 
-	this.instance_3 = new lib.CachedTexturedBitmap_92();
+	this.instance_3 = new lib.CachedTexturedBitmap_257();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(166.3,148.35,0.5,0.5);
 
-	this.instance_4 = new lib.CachedTexturedBitmap_91();
+	this.instance_4 = new lib.CachedTexturedBitmap_256();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(17.25,60.9,0.5,0.5);
 
-	this.instance_5 = new lib.CachedTexturedBitmap_93();
+	this.instance_5 = new lib.CachedTexturedBitmap_258();
 	this.instance_5.parent = this;
 	this.instance_5.setTransform(17.25,60.9,0.5,0.5);
 
-	this.instance_6 = new lib.CachedTexturedBitmap_94();
+	this.instance_6 = new lib.CachedTexturedBitmap_259();
 	this.instance_6.parent = this;
 	this.instance_6.setTransform(200.55,33.15,0.5,0.5);
 
@@ -4641,19 +4641,19 @@ p.nominalBounds = new cjs.Rectangle(49,22.8,495.79999999999995,318.2);
 	this.instance_7.parent = this;
 	this.instance_7.setTransform(-8,0);
 
-	this.instance_8 = new lib.CachedTexturedBitmap_95();
+	this.instance_8 = new lib.CachedTexturedBitmap_260();
 	this.instance_8.parent = this;
 	this.instance_8.setTransform(200.55,33.15,0.5,0.5);
 
-	this.instance_9 = new lib.CachedTexturedBitmap_96();
+	this.instance_9 = new lib.CachedTexturedBitmap_261();
 	this.instance_9.parent = this;
 	this.instance_9.setTransform(339.3,170.95,0.5,0.5);
 
-	this.instance_10 = new lib.CachedTexturedBitmap_97();
+	this.instance_10 = new lib.CachedTexturedBitmap_262();
 	this.instance_10.parent = this;
 	this.instance_10.setTransform(347.1,170.95,0.5,0.5);
 
-	this.instance_11 = new lib.CachedTexturedBitmap_98();
+	this.instance_11 = new lib.CachedTexturedBitmap_263();
 	this.instance_11.parent = this;
 	this.instance_11.setTransform(345.75,170.95,0.5,0.5);
 
@@ -5596,17 +5596,19 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 		self.gotoAndPlay(1);  	
 			
 		}
-		playSound("BeeGeesHowDeepIsYourLove1977AudioTrimmercom1");
 	}
 	this.frame_1 = function() {
+		playSound("BeeGeesHowDeepIsYourLove282sec");
+	}
+	this.frame_2 = function() {
 		this.playbtn = undefined;
 	}
-	this.frame_338 = function() {
+	this.frame_339 = function() {
 		this.___loopingOver___ = true;
 	}
 
 	// actions tween:
-	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1).call(this.frame_1).wait(337).call(this.frame_338).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1).call(this.frame_1).wait(1).call(this.frame_2).wait(337).call(this.frame_339).wait(1));
 
 	// כיתוב_כפתור_obj_
 	this.כיתוב_כפתור = new lib.Scene_1_כיתוב_כפתור();
@@ -5620,7 +5622,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.כיתוב_כפתור.layerIndex = 0
 	this.כיתוב_כפתור.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.כיתוב_כפתור).wait(339));
+	this.timeline.addTween(cjs.Tween.get(this.כיתוב_כפתור).wait(340));
 
 	// כפתור_obj_
 	this.כפתור = new lib.Scene_1_כפתור();
@@ -5634,7 +5636,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.כפתור.layerIndex = 1
 	this.כפתור.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.כפתור).wait(1).to({_off:true},337).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.כפתור).wait(2).to({_off:true},337).wait(1));
 
 	// שיר_ואור_שקופית_סוף_obj_
 	this.שיר_ואור_שקופית_סוף = new lib.Scene_1_שיר_ואור_שקופית_סוף();
@@ -5647,7 +5649,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.שיר_ואור_שקופית_סוף.layerIndex = 2
 	this.שיר_ואור_שקופית_סוף.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.שיר_ואור_שקופית_סוף).wait(336).to({_off:true},2).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.שיר_ואור_שקופית_סוף).wait(336).to({_off:true},2).wait(2));
 
 	// תאריך_החתונה__obj_
 	this.תאריך_החתונה_ = new lib.Scene_1_תאריך_החתונה_();
@@ -5660,7 +5662,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.תאריך_החתונה_.layerIndex = 3
 	this.תאריך_החתונה_.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.תאריך_החתונה_).wait(336).to({_off:true},1).wait(2));
+	this.timeline.addTween(cjs.Tween.get(this.תאריך_החתונה_).wait(336).to({_off:true},1).wait(3));
 
 	// שיר_ואור_שמחים__obj_
 	this.שיר_ואור_שמחים_ = new lib.Scene_1_שיר_ואור_שמחים_();
@@ -5673,7 +5675,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.שיר_ואור_שמחים_.layerIndex = 4
 	this.שיר_ואור_שמחים_.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.שיר_ואור_שמחים_).wait(230).to({regX:237.3,regY:643.4,x:237.3,y:643.4},0).wait(34).to({regX:0,regY:0,x:0,y:0},0).to({_off:true},1).wait(74));
+	this.timeline.addTween(cjs.Tween.get(this.שיר_ואור_שמחים_).wait(230).to({regX:237.3,regY:643.4,x:237.3,y:643.4},0).wait(34).to({regX:0,regY:0,x:0,y:0},0).to({_off:true},1).wait(75));
 
 	// תמונה_שיר_ואור__obj_
 	this.תמונה_שיר_ואור_ = new lib.Scene_1_תמונה_שיר_ואור_();
@@ -5686,7 +5688,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.תמונה_שיר_ואור_.layerIndex = 5
 	this.תמונה_שיר_ואור_.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.תמונה_שיר_ואור_).wait(264).to({_off:true},1).wait(74));
+	this.timeline.addTween(cjs.Tween.get(this.תמונה_שיר_ואור_).wait(264).to({_off:true},1).wait(75));
 
 	// שכבת_הצעת_נישואים_obj_
 	this.שכבת_הצעת_נישואים = new lib.Scene_1_שכבת_הצעת_נישואים();
@@ -5699,7 +5701,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.שכבת_הצעת_נישואים.layerIndex = 6
 	this.שכבת_הצעת_נישואים.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.שכבת_הצעת_נישואים).wait(264).to({_off:true},1).wait(74));
+	this.timeline.addTween(cjs.Tween.get(this.שכבת_הצעת_נישואים).wait(264).to({_off:true},1).wait(75));
 
 	// פוסט_אימוץ_obj_
 	this.פוסט_אימוץ = new lib.Scene_1_פוסט_אימוץ();
@@ -5712,7 +5714,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.פוסט_אימוץ.layerIndex = 7
 	this.פוסט_אימוץ.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.פוסט_אימוץ).wait(228).to({_off:true},1).wait(110));
+	this.timeline.addTween(cjs.Tween.get(this.פוסט_אימוץ).wait(228).to({_off:true},1).wait(111));
 
 	// שיר_ואור_ביום_אימוץ__obj_
 	this.שיר_ואור_ביום_אימוץ_ = new lib.Scene_1_שיר_ואור_ביום_אימוץ_();
@@ -5725,7 +5727,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.שיר_ואור_ביום_אימוץ_.layerIndex = 8
 	this.שיר_ואור_ביום_אימוץ_.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.שיר_ואור_ביום_אימוץ_).wait(202).to({regX:681,regY:556.3,x:681,y:556.3},0).wait(18).to({regX:0,regY:0,x:0,y:0},0).to({_off:true},1).wait(118));
+	this.timeline.addTween(cjs.Tween.get(this.שיר_ואור_ביום_אימוץ_).wait(202).to({regX:681,regY:556.3,x:681,y:556.3},0).wait(18).to({regX:0,regY:0,x:0,y:0},0).to({_off:true},1).wait(119));
 
 	// אימצו_את_ליל_obj_
 	this.אימצו_את_ליל = new lib.Scene_1_אימצו_את_ליל();
@@ -5738,7 +5740,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.אימצו_את_ליל.layerIndex = 9
 	this.אימצו_את_ליל.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.אימצו_את_ליל).wait(228).to({_off:true},1).wait(110));
+	this.timeline.addTween(cjs.Tween.get(this.אימצו_את_ליל).wait(228).to({_off:true},1).wait(111));
 
 	// שיר_ואור_מחפשים_דירה__obj_
 	this.שיר_ואור_מחפשים_דירה_ = new lib.Scene_1_שיר_ואור_מחפשים_דירה_();
@@ -5751,7 +5753,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.שיר_ואור_מחפשים_דירה_.layerIndex = 10
 	this.שיר_ואור_מחפשים_דירה_.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.שיר_ואור_מחפשים_דירה_).wait(157).to({regX:760.6,regY:598.5,x:760.6,y:598.5},0).wait(32).to({regX:0,regY:0,x:0,y:0},0).to({_off:true},1).wait(149));
+	this.timeline.addTween(cjs.Tween.get(this.שיר_ואור_מחפשים_דירה_).wait(157).to({regX:760.6,regY:598.5,x:760.6,y:598.5},0).wait(32).to({regX:0,regY:0,x:0,y:0},0).to({_off:true},1).wait(150));
 
 	// רקע_דירה_חדשה__obj_
 	this.רקע_דירה_חדשה_ = new lib.Scene_1_רקע_דירה_חדשה_();
@@ -5764,7 +5766,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.רקע_דירה_חדשה_.layerIndex = 11
 	this.רקע_דירה_חדשה_.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.רקע_דירה_חדשה_).wait(197).to({_off:true},1).wait(141));
+	this.timeline.addTween(cjs.Tween.get(this.רקע_דירה_חדשה_).wait(197).to({_off:true},1).wait(142));
 
 	// שיר_ואור_לימודים_obj_
 	this.שיר_ואור_לימודים = new lib.Scene_1_שיר_ואור_לימודים();
@@ -5777,7 +5779,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.שיר_ואור_לימודים.layerIndex = 12
 	this.שיר_ואור_לימודים.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.שיר_ואור_לימודים).wait(113).to({regX:576.7,regY:472.6,x:576.7,y:472.6},0).wait(41).to({regX:0,regY:0,x:0,y:0},0).to({_off:true},1).wait(184));
+	this.timeline.addTween(cjs.Tween.get(this.שיר_ואור_לימודים).wait(113).to({regX:576.7,regY:472.6,x:576.7,y:472.6},0).wait(41).to({regX:0,regY:0,x:0,y:0},0).to({_off:true},1).wait(185));
 
 	// רקע_סיום_לימודים_obj_
 	this.רקע_סיום_לימודים = new lib.Scene_1_רקע_סיום_לימודים();
@@ -5790,7 +5792,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.רקע_סיום_לימודים.layerIndex = 13
 	this.רקע_סיום_לימודים.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.רקע_סיום_לימודים).wait(162).to({_off:true},1).wait(176));
+	this.timeline.addTween(cjs.Tween.get(this.רקע_סיום_לימודים).wait(162).to({_off:true},1).wait(177));
 
 	// שיר_מטפסת__obj_
 	this.שיר_מטפסת_ = new lib.Scene_1_שיר_מטפסת_();
@@ -5803,7 +5805,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.שיר_מטפסת_.layerIndex = 14
 	this.שיר_מטפסת_.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.שיר_מטפסת_).wait(55).to({regX:465.5,regY:412.2,x:465.5,y:412.2},0).wait(48).to({regX:0,regY:0,x:0,y:0},0).to({_off:true},1).wait(235));
+	this.timeline.addTween(cjs.Tween.get(this.שיר_מטפסת_).wait(55).to({regX:465.5,regY:412.2,x:465.5,y:412.2},0).wait(48).to({regX:0,regY:0,x:0,y:0},0).to({_off:true},1).wait(236));
 
 	// אור_מטפס_obj_
 	this.אור_מטפס = new lib.Scene_1_אור_מטפס();
@@ -5816,7 +5818,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.אור_מטפס.layerIndex = 15
 	this.אור_מטפס.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.אור_מטפס).wait(55).to({regX:332.5,regY:437.7,x:332.5,y:437.7},0).wait(48).to({_off:true},1).wait(235));
+	this.timeline.addTween(cjs.Tween.get(this.אור_מטפס).wait(55).to({regX:332.5,regY:437.7,x:332.5,y:437.7},0).wait(48).to({_off:true},1).wait(236));
 
 	// שיר_obj_
 	this.שיר = new lib.Scene_1_שיר();
@@ -5829,7 +5831,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.שיר.layerIndex = 16
 	this.שיר.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.שיר).wait(9).to({regX:817.1,regY:607.1,x:817.1,y:607.1},0).wait(43).to({_off:true},1).wait(286));
+	this.timeline.addTween(cjs.Tween.get(this.שיר).wait(9).to({regX:817.1,regY:607.1,x:817.1,y:607.1},0).wait(43).to({_off:true},1).wait(287));
 
 	// אור_obj_
 	this.אור = new lib.Scene_1_אור();
@@ -5842,7 +5844,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.אור.layerIndex = 17
 	this.אור.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.אור).wait(9).to({regX:-260.5,regY:585.4,x:-260.5,y:585.4},0).wait(43).to({_off:true},1).wait(286));
+	this.timeline.addTween(cjs.Tween.get(this.אור).wait(9).to({regX:-260.5,regY:585.4,x:-260.5,y:585.4},0).wait(43).to({_off:true},1).wait(287));
 
 	// דיסקו_obj_
 	this.דיסקו = new lib.Scene_1_דיסקו();
@@ -5855,7 +5857,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.דיסקו.layerIndex = 18
 	this.דיסקו.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.דיסקו).wait(53).to({_off:true},4).wait(282));
+	this.timeline.addTween(cjs.Tween.get(this.דיסקו).wait(53).to({_off:true},4).wait(283));
 
 	// רקע_1_obj_
 	this.רקע_1 = new lib.Scene_1_רקע_1();
@@ -5868,7 +5870,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.רקע_1.layerIndex = 19
 	this.רקע_1.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.רקע_1).wait(112).to({_off:true},41).wait(186));
+	this.timeline.addTween(cjs.Tween.get(this.רקע_1).wait(112).to({_off:true},41).wait(187));
 
 	// פתיח_obj_
 	this.פתיח = new lib.Scene_1_פתיח();
@@ -5882,7 +5884,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,562,528.5);
 	this.פתיח.layerIndex = 20
 	this.פתיח.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.פתיח).wait(8).to({_off:true},2).wait(329));
+	this.timeline.addTween(cjs.Tween.get(this.פתיח).wait(8).to({_off:true},2).wait(330));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-364,-576,2127.3,2177);
@@ -5895,24 +5897,24 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedTexturedBitmap_78.png?1557227891634", id:"CachedTexturedBitmap_78"},
-		{src:"images/CachedTexturedBitmap_79.png?1557227891634", id:"CachedTexturedBitmap_79"},
-		{src:"images/בית1pngcopy2.png?1557227891634", id:"בית1pngcopy2"},
-		{src:"images/רקעמסיבהpngcopy.png?1557227891634", id:"רקעמסיבהpngcopy"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_.png?1557227891370", id:"SHIR_OR_LOVE_STORY_atlas_"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_2.png?1557227891370", id:"SHIR_OR_LOVE_STORY_atlas_2"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_3.png?1557227891370", id:"SHIR_OR_LOVE_STORY_atlas_3"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_4.png?1557227891371", id:"SHIR_OR_LOVE_STORY_atlas_4"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_5.png?1557227891371", id:"SHIR_OR_LOVE_STORY_atlas_5"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_6.png?1557227891371", id:"SHIR_OR_LOVE_STORY_atlas_6"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_7.png?1557227891376", id:"SHIR_OR_LOVE_STORY_atlas_7"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_8.png?1557227891376", id:"SHIR_OR_LOVE_STORY_atlas_8"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_9.png?1557227891376", id:"SHIR_OR_LOVE_STORY_atlas_9"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_10.png?1557227891377", id:"SHIR_OR_LOVE_STORY_atlas_10"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_11.png?1557227891378", id:"SHIR_OR_LOVE_STORY_atlas_11"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_12.png?1557227891379", id:"SHIR_OR_LOVE_STORY_atlas_12"},
-		{src:"images/SHIR_OR_LOVE_STORY_atlas_13.png?1557227891380", id:"SHIR_OR_LOVE_STORY_atlas_13"},
-		{src:"sounds/BeeGeesHowDeepIsYourLove1977AudioTrimmercom1.mp3?1557227891634", id:"BeeGeesHowDeepIsYourLove1977AudioTrimmercom1"}
+		{src:"images/CachedTexturedBitmap_243.png?1557241921163", id:"CachedTexturedBitmap_243"},
+		{src:"images/CachedTexturedBitmap_244.png?1557241921163", id:"CachedTexturedBitmap_244"},
+		{src:"images/בית1pngcopy2.png?1557241921163", id:"בית1pngcopy2"},
+		{src:"images/רקעמסיבהpngcopy.png?1557241921163", id:"רקעמסיבהpngcopy"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_.png?1557241920298", id:"SHIR_OR_LOVE_STORY_atlas_"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_2.png?1557241920298", id:"SHIR_OR_LOVE_STORY_atlas_2"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_3.png?1557241920299", id:"SHIR_OR_LOVE_STORY_atlas_3"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_4.png?1557241920299", id:"SHIR_OR_LOVE_STORY_atlas_4"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_5.png?1557241920299", id:"SHIR_OR_LOVE_STORY_atlas_5"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_6.png?1557241920300", id:"SHIR_OR_LOVE_STORY_atlas_6"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_7.png?1557241920300", id:"SHIR_OR_LOVE_STORY_atlas_7"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_8.png?1557241920301", id:"SHIR_OR_LOVE_STORY_atlas_8"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_9.png?1557241920302", id:"SHIR_OR_LOVE_STORY_atlas_9"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_10.png?1557241920303", id:"SHIR_OR_LOVE_STORY_atlas_10"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_11.png?1557241920305", id:"SHIR_OR_LOVE_STORY_atlas_11"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_12.png?1557241920307", id:"SHIR_OR_LOVE_STORY_atlas_12"},
+		{src:"images/SHIR_OR_LOVE_STORY_atlas_13.png?1557241920310", id:"SHIR_OR_LOVE_STORY_atlas_13"},
+		{src:"sounds/BeeGeesHowDeepIsYourLove282sec.mp3?1557241921163", id:"BeeGeesHowDeepIsYourLove282sec"}
 	],
 	preloads: []
 };
